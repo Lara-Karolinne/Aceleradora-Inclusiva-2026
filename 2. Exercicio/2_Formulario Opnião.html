@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 2: Formulário de Opinião</title>
+</head>
+<body>
+
+    <h1>Sua Opinião</h1>
+
+    <form action="/enviar-opiniao" method="POST">
+        
+        
+        <label for="nome_cliente">Seu Nome:</label>
+        <input type="text" id="nome_cliente" name="nome_cliente" required>
+        <br><br>
+
+        <label for="avaliacao">Avaliação:</label>
+        <select id="avaliacao" name="estrelas_avaliacao">
+            <option value="1">1 Estrela</option>
+            <option value="2">2 Estrelas</option>
+            <option value="3">3 Estrelas</option>
+            <option value="4">4 Estrelas</option>
+            <option value="5">5 Estrelas</option>
+        </select>
+        <br><br>
+
+        
+        <label for="opiniao_texto">Sua Opinião:</label><br>
+        <textarea id="opiniao_texto" name="texto_opiniao" rows="5" cols="30" placeholder="Escreva aqui o que você achou..."></textarea>
+        <br><br>
+
+        
+        <input type="submit" value="Enviar Opinião">
+
+    </form>
+
+</body>
+</html>

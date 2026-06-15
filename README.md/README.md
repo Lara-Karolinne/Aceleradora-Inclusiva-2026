@@ -2,6 +2,10 @@
 
 Repositório destinado ao armazenamento das atividades, exercícios e projetos desenvolvidos durante o programa **Aceleradora Inclusiva 2026**.
 
+## Sobre o repositório
+
+Este espaço reúne os conteúdos estudados ao longo da formação em desenvolvimento web, registrando minha evolução prática por meio de desafios, exercícios e projetos desenvolvidos durante o curso.
+
 ## Tecnologias estudadas
 
 * HTML5
@@ -9,30 +13,13 @@ Repositório destinado ao armazenamento das atividades, exercícios e projetos d
 * JavaScript
 * React
 
-## Estrutura do repositório
+## Projetos
 
-### Projetos HTML
-
-Projetos desenvolvidos utilizando apenas HTML.
-
-* Meu Primeiro HTML
-* Formulário de Cadastro
-* Formulário Clone
-* Formulário de Opinião
-
-### Projetos HTML + CSS
-
-Projetos desenvolvidos utilizando HTML e CSS.
-
-* Lista de Estudos
-* Clone Página Tech Solutions
-* Cartão de Apresentação
-* Página de Vendas
-* Clonar Layout
+Ao longo da formação, serão adicionados projetos práticos utilizando as tecnologias estudadas. Os projetos têm como objetivo aplicar os conhecimentos adquiridos em sala de aula e desenvolver habilidades na criação de páginas e aplicações web.
 
 ## Objetivo
 
-Este repositório tem como objetivo registrar minha evolução durante os estudos de desenvolvimento web, reunindo atividades práticas, desafios e projetos realizados ao longo da formação.
+Documentar minha jornada de aprendizado em desenvolvimento web, acompanhando minha evolução técnica durante o programa e construindo um portfólio com os projetos realizados.
 
 ## Autora
 
